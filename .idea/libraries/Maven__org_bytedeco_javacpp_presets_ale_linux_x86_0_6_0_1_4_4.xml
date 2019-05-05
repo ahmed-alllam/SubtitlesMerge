@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco.javacpp-presets:ale:linux-x86:0.6.0-1.4.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ale/0.6.0-1.4.4/ale-0.6.0-1.4.4-linux-x86.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ale/0.6.0-1.4.4/ale-0.6.0-1.4.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ale/0.6.0-1.4.4/ale-0.6.0-1.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

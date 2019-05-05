@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco.javacpp-presets:skia:ios-x86_64:20170511-53d6729-1.4.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/skia/20170511-53d6729-1.4.4/skia-20170511-53d6729-1.4.4-ios-x86_64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/skia/20170511-53d6729-1.4.4/skia-20170511-53d6729-1.4.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/skia/20170511-53d6729-1.4.4/skia-20170511-53d6729-1.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

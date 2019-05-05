@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bytedeco.javacpp-presets:spinnaker:linux-x86_64:1.19.0.22-1.4.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/spinnaker/1.19.0.22-1.4.4/spinnaker-1.19.0.22-1.4.4-linux-x86_64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/spinnaker/1.19.0.22-1.4.4/spinnaker-1.19.0.22-1.4.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/spinnaker/1.19.0.22-1.4.4/spinnaker-1.19.0.22-1.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
